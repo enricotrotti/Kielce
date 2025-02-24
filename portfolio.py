@@ -1,4 +1,4 @@
-# Importazione delle librerie necessarie
+#NUOVOOOOOOOOOOOOOOOOOO# Importazione delle librerie necessarie
 import yfinance as yf
 import numpy as np
 import pandas as pd
